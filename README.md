@@ -9,3 +9,6 @@ Important note: If you have xampp, everything is already ready for the initial s
 FA : در اولین قدم فایل xampp یا wampp یا هر چیزی که خودتون دارین رو اجرا کنین و وارد phpmyadmin شوید سپس فایل Database.sql رو دانلود کرده و محتویات اون فایل رو کپی کرده و داخل بهش sql phpmyadmin پیست کنین سپس تنظیمات دیتابیس خودتون رو در دو فایل index.php و database.php انجام بدین 
 
 نکته مهم : اگر xampp دارین همه چیز برای تنظیمات اولیه xampp از قبل آماده هست و در صورت نیاز میتونین تغییر بدین
+
+
+By ArshiaHMC  |  ArshiaSadrRezvani  | https://Arshiahmc.ir/
